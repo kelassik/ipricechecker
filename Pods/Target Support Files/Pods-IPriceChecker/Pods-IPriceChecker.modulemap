@@ -1,0 +1,6 @@
+framework module Pods_IPriceChecker {
+  umbrella header "Pods-IPriceChecker-umbrella.h"
+
+  export *
+  module * { export * }
+}
